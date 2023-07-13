@@ -32,7 +32,10 @@ a:hover {
   max-width: 100%;
   display: block;
 }
-
+.button-1:hover{
+  background:#f50606;
+  color: #0000ff;
+}
 .menubar li a {
   padding: 15px 20px;
   color: #000000;
